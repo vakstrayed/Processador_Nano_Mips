@@ -1,0 +1,125 @@
+------------------------------------------------------------
+TimeQuest Timing Analyzer Summary
+------------------------------------------------------------
+
+Type  : Slow Model Setup 'clk'
+Slack : -3.733
+TNS   : -288.652
+
+Type  : Slow Model Setup 'ctrl:ctrl|CmdULA[0]'
+Slack : -3.653
+TNS   : -27.451
+
+Type  : Slow Model Setup 'ctrl:ctrl|LdPC'
+Slack : -2.933
+TNS   : -21.206
+
+Type  : Slow Model Setup 'ctrl:ctrl|selDtWr[0]'
+Slack : -2.388
+TNS   : -17.026
+
+Type  : Slow Model Setup 'ctrl:ctrl|LdOUTPUT'
+Slack : -2.279
+TNS   : -128.751
+
+Type  : Slow Model Hold 'clk'
+Slack : -2.775
+TNS   : -5.968
+
+Type  : Slow Model Hold 'ctrl:ctrl|selDtWr[0]'
+Slack : -2.464
+TNS   : -18.314
+
+Type  : Slow Model Hold 'ctrl:ctrl|CmdULA[0]'
+Slack : -2.416
+TNS   : -14.939
+
+Type  : Slow Model Hold 'ctrl:ctrl|LdOUTPUT'
+Slack : 0.784
+TNS   : 0.000
+
+Type  : Slow Model Hold 'ctrl:ctrl|LdPC'
+Slack : 1.369
+TNS   : 0.000
+
+Type  : Slow Model Minimum Pulse Width 'clk'
+Slack : -1.423
+TNS   : -162.684
+
+Type  : Slow Model Minimum Pulse Width 'ctrl:ctrl|LdOUTPUT'
+Slack : -0.500
+TNS   : -72.000
+
+Type  : Slow Model Minimum Pulse Width 'ctrl:ctrl|LdPC'
+Slack : -0.500
+TNS   : -8.000
+
+Type  : Slow Model Minimum Pulse Width 'ctrl:ctrl|CmdULA[0]'
+Slack : 0.500
+TNS   : 0.000
+
+Type  : Slow Model Minimum Pulse Width 'ctrl:ctrl|selDtWr[0]'
+Slack : 0.500
+TNS   : 0.000
+
+Type  : Fast Model Setup 'clk'
+Slack : -1.084
+TNS   : -88.892
+
+Type  : Fast Model Setup 'ctrl:ctrl|CmdULA[0]'
+Slack : -1.048
+TNS   : -7.534
+
+Type  : Fast Model Setup 'ctrl:ctrl|LdPC'
+Slack : -0.739
+TNS   : -5.065
+
+Type  : Fast Model Setup 'ctrl:ctrl|LdOUTPUT'
+Slack : -0.624
+TNS   : -27.360
+
+Type  : Fast Model Setup 'ctrl:ctrl|selDtWr[0]'
+Slack : -0.546
+TNS   : -3.389
+
+Type  : Fast Model Hold 'clk'
+Slack : -1.752
+TNS   : -3.553
+
+Type  : Fast Model Hold 'ctrl:ctrl|selDtWr[0]'
+Slack : -1.517
+TNS   : -11.454
+
+Type  : Fast Model Hold 'ctrl:ctrl|CmdULA[0]'
+Slack : -1.511
+TNS   : -10.286
+
+Type  : Fast Model Hold 'ctrl:ctrl|LdOUTPUT'
+Slack : 0.276
+TNS   : 0.000
+
+Type  : Fast Model Hold 'ctrl:ctrl|LdPC'
+Slack : 0.661
+TNS   : 0.000
+
+Type  : Fast Model Minimum Pulse Width 'clk'
+Slack : -1.423
+TNS   : -162.684
+
+Type  : Fast Model Minimum Pulse Width 'ctrl:ctrl|LdOUTPUT'
+Slack : -0.500
+TNS   : -72.000
+
+Type  : Fast Model Minimum Pulse Width 'ctrl:ctrl|LdPC'
+Slack : -0.500
+TNS   : -8.000
+
+Type  : Fast Model Minimum Pulse Width 'ctrl:ctrl|CmdULA[0]'
+Slack : 0.500
+TNS   : 0.000
+
+Type  : Fast Model Minimum Pulse Width 'ctrl:ctrl|selDtWr[0]'
+Slack : 0.500
+TNS   : 0.000
+
+------------------------------------------------------------
